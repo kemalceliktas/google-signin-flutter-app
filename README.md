@@ -15,7 +15,13 @@ A new Flutter project.
 
 <img width="1792" alt="DRAWER" src="https://user-images.githubusercontent.com/72785742/200174484-16c62c43-9a09-46a2-8916-093e32be7fd9.png">
 
+# PRODUCT DETAIL
 
+<img width="1792" alt="PRODUCTDETAIL" src="https://user-images.githubusercontent.com/72785742/200174522-d0560960-0e70-4161-ab59-6db87b7e768f.png">
+
+# PROFILE DETAIL
+
+<img width="1792" alt="PROFILEDETAIL" src="https://user-images.githubusercontent.com/72785742/200174541-5434e6e9-2a4a-4e17-ad70-264e2dedef67.png">
 
 This project is a starting point for a Flutter application.
 
